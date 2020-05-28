@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">20110118 이승원</string>
+    <string name="start">시작</string>
+    <string name="pause">중지</string>
+    <string name="record">구간 기록</string>
+    <string name="conti">계속</string>
+    <string name="reset">초기화</string>
+</resources>
